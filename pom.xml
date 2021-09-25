@@ -44,6 +44,6 @@
 	<scm>
 	    <url>http://github.com/Jaspinder711/sfg-pet-clinic.git</url>
 	   <connection>scm:git:http://Jaspinder711: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@github.com/Jaspinder711/sfg-pet-clinic.git</connection>
-    <tag>sfg-pet-clinic-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
